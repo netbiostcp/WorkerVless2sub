@@ -13,9 +13,8 @@ compatibility_date = "2023-05-26"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 # UUID = "1b6c1745-992e-4aac-8685-266c090e50ea,89b64978-6244-4bf3-bf64-67ade4ce5c8f"
-HOST = cmw.netbios.onflashdrive.app
-NOTLS = true
-PATH = /?ed=2048
-TOKEN = cmliu
-UUID = c27cbbb4-6efa-4378-8e6e-d589d040f868
-
+HOST = "cmw.netbios.onflashdrive.app"
+NOTLS = "true"
+PATH = "/?ed=2048"
+TOKEN = "cmliu"
+UUID = "c27cbbb4-6efa-4378-8e6e-d589d040f868"
